@@ -6,7 +6,7 @@ export default function InfoSection() {
       <div className="info-grid">
         <div className="info-card">
           <span className="info-label">Дата</span>
-          <span className="info-value">Среда, 20 ноября 2025 года</span>
+          <span className="info-value">Четверг, 20 ноября 2025 года</span>
         </div>
 
         <div className="info-card">
