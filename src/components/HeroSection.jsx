@@ -15,7 +15,7 @@ export default function HeroSection() {
         <p className="hero-title">Приглашение на Открытый урок</p>
         <h1 className="hero-title">Заветы Великого Абая</h1>
         <p className="hero-sub">
-          Открытый урок по русскому языку и литературе для 4«Ә» класса
+          Открытый урок по русскому языку для 4«Ә» класса
         </p>
         <p className="hero-tagline">
           Мудрость, слово, вдохновение — на одном уроке.
