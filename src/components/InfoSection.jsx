@@ -11,7 +11,7 @@ export default function InfoSection() {
 
         <div className="info-card">
           <span className="info-label">Время</span>
-          <span className="info-value">17:00</span>
+          <span className="info-value">08:50</span>
         </div>
 
         <div className="info-card">

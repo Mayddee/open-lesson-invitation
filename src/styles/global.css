@@ -173,6 +173,8 @@ body {
   font-weight: 600;
 }
 
+
+
 /* ---------- ABOUT ---------- */
 
 .about {
@@ -193,6 +195,18 @@ body {
   border-radius: 10px;
   font-style: italic;
 }
+
+.author-name {
+  font-style: italic;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 6px;
+  color: #4d4d3f;
+  opacity: 0.85;
+  font-size: 1.1rem;
+  letter-spacing: 0.5px;
+}
+
 
 /* ---------- GALLERY ---------- */
 
@@ -488,7 +502,7 @@ input {
 
 /* ---------- MOBILE ---------- */
 
-@media (max-width: 768px) {
+@media (max-width: 766px) {
   .hero {
     flex-direction: column;
     text-align: center;

@@ -15,6 +15,7 @@ export default function AboutAbai() {
       <blockquote className="abai-quote slide-up">
         «Будь человеком. Не жалей сил в труде».
       </blockquote>
+      <p className="author-name">- Абай Кунанбаев</p>
     </section>
   )
 }
